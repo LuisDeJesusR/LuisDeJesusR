@@ -1,6 +1,5 @@
 ### Hola, mi nombre es Luis De Jesus 👋
 
-<!--
 **LuisDeJesusR/LuisDeJesusR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Horario de clases
 |       | LUNES                                        | MARTES                                       | MIERCOLES                                    | JUEVES                                       | VIERNES                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | GESTION DE PROYECTOS DE  SOFTWARE            | GESTION DE PROYECTOS DE SOFTWARE             | GESTION DE PROYECTOS DE  SOFTWARE            | GESTION DE PROYECTOS DE SOFTWARE             | GESTION DE PROYECTOS DE SOFTWARE             |
