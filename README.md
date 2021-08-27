@@ -2,7 +2,6 @@
 
 ❤️🇫🇷 ⚽ PSG ⚽🇫🇷❤️
 
-![](https://pbs.twimg.com/media/E8X7NFTWUAQJrDE.jpg)
 
 **LuisDeJesusR/LuisDeJesusR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
