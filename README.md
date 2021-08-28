@@ -1,4 +1,4 @@
-### Hola a todos 👋, mi nombre es 
+## Hola a todos 👋, mi nombre es 
 ![](https://images.cooltext.com/5549093.png)
 
 Actualmente soy estudiante de la carrera Ingeniería en Sistemas Computacionales
