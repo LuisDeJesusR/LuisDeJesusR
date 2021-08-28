@@ -3,7 +3,12 @@
 
 Actualmente soy estudiante de la carrera Ingeniería en Sistemas Computacionales
  y estudio en el Instituto Tecnológico de Tijuana
-
+ 
+Acerca de mi:
+- 👨‍🦱 Mi nombre completo es Luis Alfredo De Jesus Romero
+- ⏱ Tengo 21 años
+- 🌆 Soy de la cidudad de Tijuana
+- ⚽ Me gusta el futbol
 
 
 
