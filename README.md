@@ -15,7 +15,7 @@ Acerca de mi:
 Conocimientos:
 - 🖱 Conocimiento en C#
 - 💻 Conocimiento en Java
-- 📗Uso de SQL Server
+- 📗 Uso de SQL Server
 
 
 Este es mi horario de clases:
