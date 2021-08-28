@@ -1,10 +1,11 @@
 # Hola, mi nombre es Luis De Jesus 👋
+#Hola
 
 
 
 
 
-Horario de clases
+Este es mi horario de clases:
 |       | LUNES                                        | MARTES                                       | MIERCOLES                                    | JUEVES                                       | VIERNES                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | GESTION DE PROYECTOS DE  SOFTWARE            | GESTION DE PROYECTOS DE SOFTWARE             | GESTION DE PROYECTOS DE  SOFTWARE            | GESTION DE PROYECTOS DE SOFTWARE             | GESTION DE PROYECTOS DE SOFTWARE             |
