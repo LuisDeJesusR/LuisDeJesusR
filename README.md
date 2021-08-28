@@ -2,8 +2,7 @@
 ![](https://images.cooltext.com/5549093.png)
 
 Actualmente soy estudiante de la carrera Ingeniería en Sistemas Computacionales
-
-Estudio en el Instituto Tecnológico de Tijuana
+ y estudio en el Instituto Tecnológico de Tijuana
 
 
 
