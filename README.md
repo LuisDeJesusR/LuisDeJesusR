@@ -2,7 +2,8 @@
 ![](https://images.cooltext.com/5549093.png)
 
 Actualmente soy estudiante de la carrera Ingeniería en Sistemas Computacionales
- y estudio en el Instituto Tecnológico de Tijuana
+impartida en el Instituto Tecnológico de Tijuana
+ 
  
 Acerca de mi:
 - 👨‍🦱 Mi nombre completo es Luis Alfredo De Jesus Romero
@@ -10,6 +11,11 @@ Acerca de mi:
 - 🌆 Soy de la cidudad de Tijuana
 - ⚽ Me gusta el futbol
 
+
+Conocimientos:
+- 🖱 Conocimiento en C#
+- 💻 Conocimiento en Java
+- 📗Uso de SQL Server
 
 
 Este es mi horario de clases:
