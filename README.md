@@ -1,7 +1,8 @@
 ### Hola a todos 👋, mi nombre es 
-![](https://images.cooltext.com/5549090.png)
+![](https://images.cooltext.com/5549093.png)
 
-
+Actualmente soy estudiante de la carrera Ingeniería en Sistemas Computacionales
+Estudio en el Instituto Tecnológico de Tijuana
 
 
 
